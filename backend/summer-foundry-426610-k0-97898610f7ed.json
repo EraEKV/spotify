@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "summer-foundry-426610-k0",
+  "private_key_id": "97898610f7edfbedf606fdef7876986c17449892",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCetSOGd6RTg1De\nFECHJC08Z/rZoDCWv1jM1AixsPjlmoZn9Jg/tH0vEd3SvtZT7wglGp+SSS78gLvd\nrlzLmU+lbu8EZpAnpgfI1fTA80fkeCXy9UJMqCMloCla4D/N6W3BQsgX5meyD610\ngUMt++ca86zLZ/AS1CDWRCTPMjo5UMFviZ910kq8VVXxtNAHMjRvw1mgl8UONKFM\n89mtXJ7lt8newtk061ySfEB6iNSE9n1HNHgMgX4m3Mw0Jsi/5/+Ykzsj2oByih14\nIXecwgWZLLiQaGckLrH/bT/+XbfnyuzXaiihN6kQQ3oNL4Akn4YkC026GQY75ckv\nE5D6GFrlAgMBAAECggEAArlvS66gFoLpj3ZfiTJYyHGsf7HdQ6kzOAjnwU0daKuX\nZQ9w0Z8iiv1OhoCaI0S2KhTj6lnxQYpgLzUACMqv8FIQLk4oaVXTSmJJ2koS0Nwz\nIpGNOs2kFNBEBXhWAA3iwW+JCcf9vbPBMX/KjG6HkBHgxHkbSOd1TNhMnXXqQ/OU\n+0drn6tNOvin1t2Cav48z3hnXKfWPAyIZOFkkpA95hKy6v6kSd3jOSpfT1fC/avb\ntiicIcxZUK0vzPADga0uoJ3gmEU/I5J0PWEFQ7vG8qwFSKA/BIwJsHp33hX1i2i7\nIjEZOGRFsdS8UtEmvTmhUUo4ho3aLFiJcf+1OtP7HQKBgQDdJLbxABp7ANfnZw4S\nNu7D7DEsHuKkSzHEL/BtQYpdmUNqRXZR5LPzefDifA0gAes+3WbVrOFqYQ+Dv6RP\nHPP0H6Lfj8dX5rasjWfZ2Ill4cfBRAdftKnWpMq/QtFdvaFg2p37pHaPJ21GIo/O\nTPWhhZ8x+Ntfa5NtnHRKssaCwwKBgQC3uRiQLLCNc5u9YoWuc/RLfSaVB+uJ6x0o\ny5jTDwVZk1DgdwnKU5b2n5OttA5nC2JPeeL1VqQlvmfpiUJuVEo4HnwHWWbOP3W7\nI1PAo3GV1E0VMETkqqu3DiPnO+3UgXsdo/+Cb8kLxw+C+uZWgcqJnWO7GE8CBLm3\nJ90eG1qBNwKBgFrtlLclZr36y8ufCR8eLTCr9lAA5wnMzUqwt3gFAeKYeSrCIvNr\nST6sfgpyHWdywoqXuIfVTN5TyHBQpTvOWNShCXRJBxsyhxwODIx7R4t3uY3S7gFB\nJLBYE/FuhO25YhiT62+j4Qfdm0XCQkT+SeU/LwT6ISFr9zOTqBFqzsrHAoGAV8Ro\n45c10J1F7Tc/vZNPRTDIWbGq5/wVtgNtQoaOe7hQjqrPVoSQPckF95lot/lMQcNs\nlN+LEyze30XfIm3J9v05KxmebzEJwRijTgfGn1kIafLhNowB9DUhGbobZ8VjV0md\nKmbUmHfEBUJu/yyJ4Sv7FMoMFF7FiaXVkChpGAkCgYEArjurkx03BetZnRbLoi8T\njWvSv7Br0tYh8tDsZZVyJUfiRjJoFG/RCAd657ig1nAApekjCjMjJe3FG1OkMTg6\nK0uCT5AzMXrzwKXJkyMmUhWBrfkz+d1Bvqo2LgIyBoropTXdu/RNPppum8HK/ZWa\nX/lBr8VIrVjstJAOm0vkpWk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "spotify@summer-foundry-426610-k0.iam.gserviceaccount.com",
+  "client_id": "115569950556304614151",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/spotify%40summer-foundry-426610-k0.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
